@@ -1,0 +1,52 @@
+form{
+    padding: 0.3rem;
+    margin-bottom: 1rem;
+    width: 95%;
+    text-align: center;
+}
+
+label{
+    display: block;
+    margin-bottom: 0.3rem;
+}
+
+.input{
+    padding: 0.2rem;
+    width: 50%;
+    border-radius: 99999px;
+    border: 1px solid rgb(230, 230, 230);
+}
+.input:focus{
+    outline-width: 0;
+    border: 2px solid rgb(196, 246, 248);
+    box-shadow: 1px 1px 1px 1px rgb(207, 253, 255);
+}
+
+textarea{
+    height: 4rem;
+}
+.form-section{
+    margin-bottom: 0.7rem;
+}
+
+button {
+    width: 25%;
+    padding: .5rem;
+    margin: .3rem;
+    font-size: 1rem;
+    border: 1px solid rgb(204, 204, 204);
+    border-radius: .3rem;
+    color: ivory;
+    background-color: rgb(69, 180, 165);
+}
+
+button:hover{
+    box-shadow: 1px 1px 1px rgb(214, 214, 214);
+}
+
+.msg-to-user{
+    padding: .3rem;
+    border: 1px solid black;
+    border-left: transparent;
+    border-right: transparent;
+}

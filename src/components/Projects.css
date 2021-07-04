@@ -1,0 +1,22 @@
+.project-wrapper{
+    border: 1px solid rgb(237, 237, 237);
+    padding: 0.2rem;
+    margin-bottom: 0.2rem;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.info-container{
+    display: inline-block;
+    cursor: pointer;
+}
+
+.info-container:hover{
+    border-radius: 50%;
+    box-shadow: 1px 1px 1px rgb(214, 214, 214);
+}
+
+.github-link:hover{
+    border-radius: 50%;
+    box-shadow: 1px 1px 1px rgb(214, 214, 214);
+}

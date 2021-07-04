@@ -1,0 +1,12 @@
+.skill-span{
+    display: inline-block;
+    margin: 0.2rem;
+    padding: 0.2rem;
+    border: 1px solid rgb(235, 235, 235);
+    border-radius: 9999px;
+    box-shadow: 1px 1px 1px 1px grey;
+}
+  
+.home-email{
+    font-size: 0.9rem;
+}
