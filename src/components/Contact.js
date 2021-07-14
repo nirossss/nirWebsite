@@ -41,6 +41,9 @@ const Contact = (props) => {
                         msg: 'Message sent.\n Please E-mail me for faster contact: nirelen4@gmail.com',
                         color: 'green'
                     })
+                    setName('')
+                    setEmail('')
+                    setMessage('')
                 })
                 .catch((error) => {
                     setMsgToUser({

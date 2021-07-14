@@ -37,7 +37,7 @@ const Home = (props) => {
                                 <a href="https://www.linkedin.com/in/nir-elenhoren">Linkedin profile</a>
                             </p>
                             <p>
-                                <a href="https://github.com/nirossss?tab=repositories">GitHub</a>
+                                <a href="https://github.com/nirossss">GitHub</a>
                             </p>
                             <p title='E-mail' className="home-email">
                                 <GoMail size='1.5rem' /> nirelen4@gmail.com
