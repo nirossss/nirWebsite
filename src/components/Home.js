@@ -24,7 +24,7 @@ const Home = (props) => {
                 <div className="wrapper img-map">
                     <div >
                         <div className="img-container">
-                            <img src='./photos/profile.jpg' alt=""></img>
+                            <img src='./photos/profile.jpeg' alt=""></img>
                         </div>
                         <div id="canvasfor-googlemap" >
                             <p title='Phone Number'>
